@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 80;
+    background: skyblue; ;
+    margin: auto;
+    padding: 34px;
+    
+}
+.container h1{
+    text-align: center;
+}
+
+.container1{
+    max-width: 20;
+    box-sizing: content-box;
+    background-color: aqua;
+    margin: 60px;
+    padding: 60px;
+
+}
+.container1 h2{
+    text-align: center;
+}
+.container2{
+    max-width: 20;
+    box-sizing: content-box;
+    background-color: aqua;
+    margin: 60px;
+    padding: 60px;
+
+}
+.container2 h2{
+    text-align: center;
+}

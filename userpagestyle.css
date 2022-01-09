@@ -1,0 +1,9 @@
+.Mainbox{
+    max-width: 50;
+    background: skyblue; 
+    margin: 200px;
+    padding: 100px;
+}
+.Mainbox h2{
+    text-align: center;
+}
